@@ -2,3 +2,6 @@
 .wrapper{
 	width: 1190px;margin: 0 auto;
 }
+.banner{
+	float: left;margin-top: 10px;width: 755px;height: 353px;overflow: hidden;zoom: 1;position: relative;z-index: 10;
+}
